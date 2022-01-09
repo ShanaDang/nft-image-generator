@@ -10,7 +10,7 @@
 
 # production
 /build
-
+/layers
 # misc
 .DS_Store
 .eslintcache
